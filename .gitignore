@@ -1,0 +1,7 @@
+build/
+.vscode
+
+src/build
+src/main
+
+*.mp4
